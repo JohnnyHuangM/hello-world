@@ -1,2 +1,5 @@
 # hello-world
-My first repository - GitHub tutorial
+My very first repository - GitHub tutorial
+
+Never used a place to keep my work.
+So now that I've decided to learn how to code, I felt the necessities to come up with GitHub
